@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "Software Engineer",
+    "department": "IT",
+    "salary": "₹80,000"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "role": "UI/UX Designer",
+    "department": "Design",
+    "salary": "₹70,000"
+  },
+  {
+    "id": 3,
+    "name": "David Johnson",
+    "role": "Project Manager",
+    "department": "Management",
+    "salary": "₹1,00,000"
+  },
+  {
+    "id": 4,
+    "name": "Sara Williams",
+    "role": "QA Engineer",
+    "department": "Testing",
+    "salary": "₹65,000"
+  },
+  {
+    "id": 5,
+    "name": "Mike Brown",
+    "role": "DevOps Engineer",
+    "department": "Operations",
+    "salary": "₹85,000"
+  }
+]
