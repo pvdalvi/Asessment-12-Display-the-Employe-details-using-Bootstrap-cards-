@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Prajakta", "email": "prajakta@example.com", "department": "UI/UX" },
+  { "id": 2, "name": "Poonam", "email": "poonam@example.com", "department": "Frontend" },
+  { "id": 3, "name": "Tejaswi", "email": "tejaswi@example.com", "department": "Backend" },
+  { "id": 4, "name": "Advaitha", "email": "advaitha@example.com", "department": "Quality Assurance" },
+  { "id": 5, "name": "Saika", "email": "saika@example.com", "department": "DevOps" },
+  { "id": 6, "name": "Ridha", "email": "ridha@example.com", "department": "Project Management" }
+]
